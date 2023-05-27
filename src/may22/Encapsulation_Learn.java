@@ -33,7 +33,7 @@ public class Encapsulation_Learn {
     }
     private float  getHikeDataFromDB(int  empID, Date Dob, String Password )
     {
-        float individual_Hike = 0;
+        float individual_Hike = 0f;
         // Individual_Hike = SqlData
         return 8.2f;
     }
